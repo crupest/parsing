@@ -1,0 +1,1 @@
+add_library(cru_parsing_common STATIC)
